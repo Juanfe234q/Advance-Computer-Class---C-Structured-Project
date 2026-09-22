@@ -1,9 +1,8 @@
 # Advance-Computer-Class---C-Structured-Project
 Este repositorio da lugar al Proyecto de Programación Avanzada en C++ para la materia de Programación Avanzada 
 
-- Este es el primer proyecto para la primera parte del curso donde apoyados en conceptos tales cómo la memoria dinámica, apuntadores 
-
-
+- Este es el primer proyecto para la primera parte del curso donde apoyados en conceptos tales cómo la memoria dinámica, apuntadores, archivos binarios, de texto, entre otras temáticas relevantes a la clase de Programación Avanzada.
+  
 - A continuación exponemos nuestro proyecto, una explicación breve de cada una de las funciones y su lógica estructural, además de ejemplos de funcionamiento correcto del codigo.
 
 # Nombre de Nuestro Proyecto: LabManager :D
