@@ -287,8 +287,18 @@ Este repositorio da lugar al Proyecto de Programación Avanzada en C++ para la m
 # 2. Main: Logica Básica.
 - El main lo desarrollamos implementando en un menu switch (Ante un do-while) donde hacemos en bucle hasta que el usuario lo desee la implementación del codigo.
 
+# NOTA: LOS ARCHIVOS NECESARIOS PARA IMPLEMENTAR EL CODIGO SE ENCUENTRAN JUNTO A LOS ARCHIVOS DE ESTE REPOSITORIO
+
 # 3. EJEMPLOS DE IMPLEMENTACIÓN DEL CODIGO: (TERMINAL)
 
+# EJEMPLO 1 - CERRANDO UNA SESION -> SE DAÑO EL EQUIPO -> PASA A MANTENIMIENTO
+<img width="400" height="435" alt="image" src="https://github.com/user-attachments/assets/051b0188-ff64-4bf1-a79d-a8241e897659" />
+
+# EJEMPLO 2 - 7 FUNCIONANDO SUPER! -> DA LOS CALCULOS CORRECTAMENTE :D
+<img width="400" height="435" alt="image" src="https://github.com/user-attachments/assets/921684a0-1683-48d3-aaac-497bff770ed3" />
+
+# EJEMPLO 3 - IMPLEMENTACION FUNCIONES 8 Y 9
+<img width="456" height="547" alt="image" src="https://github.com/user-attachments/assets/ce4c022d-0b0c-44f8-bb74-1807e883e50d" />
 
 
 
