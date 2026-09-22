@@ -300,8 +300,12 @@ Este repositorio da lugar al Proyecto de Programación Avanzada en C++ para la m
 # EJEMPLO 3 - IMPLEMENTACION FUNCIONES 8 Y 9
 <img width="456" height="547" alt="image" src="https://github.com/user-attachments/assets/ce4c022d-0b0c-44f8-bb74-1807e883e50d" />
 
-
-
+# EJEMPLO DE TODO EL CODIGO EJECUTADO
+<img width="471" height="682" alt="image" src="https://github.com/user-attachments/assets/43032e86-dba2-4870-a577-4cc27fc70fe1" />
+<img width="391" height="680" alt="image" src="https://github.com/user-attachments/assets/3591b76a-4c0c-41e9-8d04-fbf96bf6beff" />
+<img width="382" height="677" alt="image" src="https://github.com/user-attachments/assets/5d969b43-bbc1-43d1-b355-3d9530d38a47" />
+<img width="387" height="680" alt="image" src="https://github.com/user-attachments/assets/0f03a5ed-b3fb-4ef3-a98e-6134281006b9" />
+<img width="465" height="687" alt="image" src="https://github.com/user-attachments/assets/abc65d5a-119d-43d3-8e71-f2914599344a" />
 
 # GRACIAS!
 <img src="https://github.com/user-attachments/assets/982b502a-97bb-4725-ae98-bffc39ae787b" width="290" style="height: auto;">
