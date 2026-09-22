@@ -1,0 +1,13 @@
+301*Impresora 3D Prusa*Lab Manufactura*Fabricacion*8500000*operativo*6*Alta precision
+302*Osciloscopio Digital*Lab Electronica*Medicion*4200000*operativo*3*Doble canal 100MHz
+303*Brazo Robotico Dobot*Lab Robotica*Automatizacion*12000000*mantenimiento*4*Brazo didactico 4 ejes
+314*Oscilador de Cristal*Lab Electronica*Medicion*450000*operativo*3*Frecuencia de 1MHz a 50MHz
+315*Bomba Centrifuga*Lab Fluidos*Bombeo*3200000*operativo*4*Motor de 2HP en acero inoxidable
+316*Tunel de Viento Subsonico*Lab Fluidos*Pruebas*45000000*mantenimiento*6*Velocidad maxima 50 m/s
+317*Analizador de Espectro*Lab Telecomunicaciones*Medicion*12500000*operativo*5*Rango hasta 3GHz
+318*Brazo Robotico KUKA*Lab Robotica*Automatizacion*85000000*operativo*7*Seis grados de libertad
+319*Torno Convencional*Lab Manufactura*Mecanizado*8500000*mantenimiento*3*Distancia 1000mm
+320*Calorimetro Diferencial*Lab Termodinamica*Analisis*22000000*operativo*4*Rango -150 a 600C
+321*Multimetro de Banco*Lab Electronica*Medicion*1200000*operativo*2*Precision de 6 digitos
+322*Impresora de Resina SLA*Lab Manufactura*Fabricacion*4800000*operativo*4*Resolucion 4K
+323*Compresor de Aire*Lab Neumatica*Suministro*3500000*mantenimiento*3*Tanque 100L a 120 PSI
